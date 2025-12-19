@@ -1,6 +1,6 @@
 # Tito Muhammad Gafa
 <p align="center">
-  <img src="image/mas dan adiek.jpg" width="200">
+  <img src="image/mas dan adiek.jpg" width="400">
 </p>
 👋 Hi!<br>Saya seorang Full Stack Developer yang mengembangkan Web dan Mobile Application.<br><br>💻 Web Developer (Frontend & Backend)<br><br>📱 Mobile App Developer<br><br>⚙️ API Development & Database Management<br><br>🔍 Clean Code & Scalable Architecture<br><br>Saya senang membangun aplikasi yang efisien, mudah digunakan, dan memiliki performa yang baik.<br>Selalu tertarik untuk belajar teknologi baru dan berkontribusi pada project yang berdampak.
 
